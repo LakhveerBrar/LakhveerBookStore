@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LakhveerBookStore", "LakhveerBookStore.csproj", "{AD476E34-0F5C-4D09-869D-8DF0C0AE6AF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakhveersBooks.DataAccess", "..\LakhveersBooks.DataAccess\LakhveersBooks.DataAccess.csproj", "{071841BF-E284-43F3-A93F-86F2727078FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakhveersBooks.DataAccess", "..\LakhveersBooks.DataAccess\LakhveersBooks.DataAccess.csproj", "{FBA088FE-26C8-486E-BEDB-82245CDDAFC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakhveersBooks.Models", "..\LakhveersBooks.Models\LakhveersBooks.Models.csproj", "{6FFD1AE9-C94F-4812-87A9-588F32A37DB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakhveersBooks.Models", "..\LakhveersBooks.Models\LakhveersBooks.Models.csproj", "{78A0C41B-A6BC-4FC6-971B-ABA60E161291}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakhveersBooksUtility", "..\LakhveersBooksUtility\LakhveersBooksUtility.csproj", "{E30E1E84-8E33-4659-8128-D71B461D32E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakhveersBooks.Utility", "..\LakhveersBooks.Utility\LakhveersBooks.Utility.csproj", "{30BFB934-C5BF-4B48-AF3A-4FB14040433E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,18 @@ Global
 		{AD476E34-0F5C-4D09-869D-8DF0C0AE6AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD476E34-0F5C-4D09-869D-8DF0C0AE6AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD476E34-0F5C-4D09-869D-8DF0C0AE6AF1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{071841BF-E284-43F3-A93F-86F2727078FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{071841BF-E284-43F3-A93F-86F2727078FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{071841BF-E284-43F3-A93F-86F2727078FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{071841BF-E284-43F3-A93F-86F2727078FC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6FFD1AE9-C94F-4812-87A9-588F32A37DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6FFD1AE9-C94F-4812-87A9-588F32A37DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6FFD1AE9-C94F-4812-87A9-588F32A37DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6FFD1AE9-C94F-4812-87A9-588F32A37DB7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E30E1E84-8E33-4659-8128-D71B461D32E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E30E1E84-8E33-4659-8128-D71B461D32E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E30E1E84-8E33-4659-8128-D71B461D32E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E30E1E84-8E33-4659-8128-D71B461D32E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA088FE-26C8-486E-BEDB-82245CDDAFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA088FE-26C8-486E-BEDB-82245CDDAFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA088FE-26C8-486E-BEDB-82245CDDAFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA088FE-26C8-486E-BEDB-82245CDDAFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A0C41B-A6BC-4FC6-971B-ABA60E161291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A0C41B-A6BC-4FC6-971B-ABA60E161291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A0C41B-A6BC-4FC6-971B-ABA60E161291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A0C41B-A6BC-4FC6-971B-ABA60E161291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BFB934-C5BF-4B48-AF3A-4FB14040433E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BFB934-C5BF-4B48-AF3A-4FB14040433E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BFB934-C5BF-4B48-AF3A-4FB14040433E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BFB934-C5BF-4B48-AF3A-4FB14040433E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
